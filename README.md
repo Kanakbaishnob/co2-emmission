@@ -1,6 +1,4 @@
-Here’s a sample `README.md` file for your project that uses linear regression to predict CO2 emissions based on engine size:
 
----
 
 # 🚗 CO2 Emission Predictor
 
